@@ -54,15 +54,20 @@ Highest Revenue Customer Type: Member ($164,223.81)
 📁 Repository Structure
 
 ├── README.md
+
 ├── Amazon_Sales_Data_SQL_Project.sql   # Full SQL script (data wrangling, EDA, business questions)
+
 ├── docs/
 │   └── Amazon_Sales_Presentation.pdf   # Project presentation slides
 
 **🚀 How to Use**
 
 Clone this repository
+
 Import the dataset into MySQL Workbench using the Table Data Import Wizard
+
 Run Amazon_Sales_Data_SQL_Project.sql step by step
+
 Explore the 28 business questions and their query solutions
 
 **🔮 Future Scope**
